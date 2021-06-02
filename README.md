@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning React.Js
 - 🔭 I’m currently working on some fun basic projects
 - 📫 How to reach me: 
-      <a href="https://www.facebook.com/adarshpriyadarshii"><i class="social fab fa-facebook fa-2x"></i></a>
-      <a href="https://www.instagram.com/adarshpriyadarshii/"><i class="social fab fa-instagram fa-2x"></i></a>
-      <a href="https://www.linkedin.com/in/adarshpriyadarshi/"><i class="social fab fa-linkedin fa-2x"></i></a>
-      <a href="https://github.com/adarshpriyadarshii"><i class="social fab fa-github-square fa-2x"></i></a>
-      <a href="mailto:adarsh_p@ce.iitr.ac.in"><i class="social fas fa-envelope fa-2x"></i></a>
+     [Facebook](https://www.facebook.com/adarshpriyadarshii)
+     [Instagram](https://www.instagram.com/adarshpriyadarshii/)
+     [LinkedIn](https://www.linkedin.com/in/adarshpriyadarshi/)
+     [Mail](mailto:adarsh_p@ce.iitr.ac.in)
+    
 
 
 [![Adarsh's github stats](https://github-readme-stats.vercel.app/api?username=adarshpriyadarshii&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
