@@ -11,7 +11,7 @@
     
 
 
-[![Adarsh's github stats](https://github-readme-stats.vercel.app/api?username=adarshpriyadarshii&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Adarsh's github stats](https://github-readme-stats.vercel.app/api?username=adarshpriyadarshii&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
